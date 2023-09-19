@@ -1,5 +1,7 @@
 # Introducting IBM watsonx.ai API
 
+## The blog post availabe at [medium](https://medium.com/@sina.nazeri/ibm-watsonx-ai-the-interface-and-api-e8e1c7227358).
+
 Watsonx is an AI and data platform with a set of AI assistants designed to help you scale and accelerate the impact of AI with trusted data across your business. The core components include a studio for new foundation models, generative AI, and machine learning.
 
 
